@@ -1,5 +1,9 @@
 # docker-rclone
 
+Update: debian base image.
+    docker run asdlfkj31h/rclone
+
+
 Docker image to perform a [rclone](http://rclone.org) sync based on a cron schedule, with [healthchecks.io](https://healthchecks.io) monitoring.
 
 rclone is a command line program to sync files and directories to and from:
