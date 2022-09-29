@@ -1,4 +1,4 @@
-ARG BASE=debian:buster-slim
+ARG BASE=debian:latest
 FROM ${BASE}
 
 MAINTAINER Gerolf Ziegenhain "gerolf.ziegenhain@gmail.com"
